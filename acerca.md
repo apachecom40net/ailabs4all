@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
-permalink: about
+title: Acerca de Alejandro
+permalink: acerca
 ---
 
-> Satoshi Nakamoto is the name used by the presumed pseudonymous person or persons who developed bitcoin, authored the bitcoin white paper, and created and deployed bitcoin's original reference implementation. - Wikipedia
+> Alejandro es un profesional con más de 25 años de experiencia en la industria tecnológica. Este sitio está especialmente diseñado para difundir información sobre IA local, _IA on-devices_ y otros contenidos relacionados con la rápida evolución de esta tecnología. 
 
 ## Profile Image
 
