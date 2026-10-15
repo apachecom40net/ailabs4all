@@ -11,7 +11,7 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
 author: Alejandro Pacheco
-author-bio: Creator of Bitcoin  # change to false to hide
+author-bio: "Ingeniero, cautivado por local AI, on-devices AI y Uso seguro de AI"  # change to false to hide
 author-image: apacheco.png  # file must be in the /assets/img/ folder
 
 # navigation menu
