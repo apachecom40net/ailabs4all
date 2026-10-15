@@ -19,7 +19,7 @@ show-nav-menu: true
 
 nav-menu:
 - text: Acerca de Alejandro
-  permalink: about
+  permalink: acerca
 - text: Mi Interés en AI
   permalink: bitcoin
 - text: Blog
